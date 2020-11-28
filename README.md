@@ -1,5 +1,11 @@
 ### Hi there 👋
+<p>
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+<img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge" />
+<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
+ <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+ </p>
 <!--
 **TeamTamoad/TeamTamoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
