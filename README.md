@@ -6,6 +6,8 @@
  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
  </p>
+ 
+ ![github stats](https://github-readme-stats.vercel.app/api?username=TeamTamoad)
 <!--
 **TeamTamoad/TeamTamoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
