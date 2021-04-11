@@ -1,5 +1,7 @@
- ![github stats](https://github-readme-stats.vercel.app/api?username=TeamTamoad)
+ ![github stats](https://github-readme-stats.vercel.app/api?username=TeamTamoad&theme=dark&show_icons=true)
+
 <!--
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TeamTamoad&theme=dark&layout=compact&langs_count=7)
 **TeamTamoad/TeamTamoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
